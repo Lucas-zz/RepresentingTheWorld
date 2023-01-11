@@ -13,7 +13,7 @@ public class Address {
         return this.state;
     }
 
-    public void setCity() {
+    public void setCity(String city) {
         this.city = city;
     }
 
